@@ -3,7 +3,7 @@
 This is a simple template project to learn code...
 
   
-This Mockup is obtaing follow step by step The Travys Media Tutorial on YouTube Channel.
+Please Note: This Mockup is obtaing follow step by step The Travys Media Tutorial by his YouTube Channel.
 
 it's only for learn more about code.
 
