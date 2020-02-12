@@ -1,6 +1,6 @@
 # Microsoft-Homepage
 
-! This is a simple template project to learn code...
+This is a simple template project to learn code...
 
 The idea & goals about this project s learn more about code n' sharing eknowledge with the rest of commmunity.
 
