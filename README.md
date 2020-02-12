@@ -1,4 +1,4 @@
-# Microsoft-Homepage
+# Microsoft-Home
 
 This is a simple template project to learn code...
 
@@ -11,7 +11,7 @@ it's only for learn more about code.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# View the job https://brianparkerin.github.io/Microsoft-Homepage/
+# View the job https://brianparkerin.github.io/Microsoft-Home/
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
